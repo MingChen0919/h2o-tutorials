@@ -8,17 +8,6 @@ For general H2O questions, please post those to [Stack Overflow using the "h2o" 
 
 There are a number of tutorials on all sorts of topics in this repo.  To help you get started, here are some of the most useful topics in both R and Python.
 
-
-### R Tutorials
-
-- [Intro to H2O in R](https://github.com/h2oai/h2o-tutorials/blob/master/h2o-open-tour-2016/chicago/intro-to-h2o.R)
-- [H2O Grid Search & Model Selection in R](https://github.com/h2oai/h2o-tutorials/blob/master/h2o-open-tour-2016/chicago/grid-search-model-selection.R)
-- [H2O Deep Learning in R](http://htmlpreview.github.io/?https://github.com/ledell/sldm4-h2o/blob/master/sldm4-deeplearning-h2o.html)
-- [H2O Stacked Ensembles in R](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/stacked-ensembles.html)
-- [H2O AutoML in R](https://github.com/h2oai/h2o-tutorials/blob/master/h2o-world-2017/automl/README.md)
-- [LatinR 2019 H2O Tutorial](https://github.com/ledell/LatinR-2019-h2o-tutorial) (broad overview of all the above topics)
-
-
 ### Python Tutorials
 
 - [Intro to H2O in Python](https://github.com/h2oai/h2o-tutorials/blob/master/h2o-open-tour-2016/chicago/intro-to-h2o.ipynb)
