@@ -1,4 +1,6 @@
 h2o
+pyspark
+pysparkling
 requests
 pandas
 numpy
